@@ -1,0 +1,118 @@
+2014-03-30 20:49:05.757 HelloWorld[1487:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 20:49:06.127 HelloWorld[1487:70b] Resetting plugins due to page load.
+2014-03-30 20:49:06.240 HelloWorld[1487:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-03-30 20:53:47.037 HelloWorld[1692:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 20:53:47.185 HelloWorld[1692:70b] Resetting plugins due to page load.
+2014-03-30 20:53:47.241 HelloWorld[1692:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-30 20:54:13.677 HelloWorld[1692:70b] Received memory warning.
+2014-03-30 21:52:16.251 HelloWorld[2367:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-30 21:52:16.394 HelloWorld[2367:70b] Resetting plugins due to page load.
+2014-03-30 21:52:16.513 HelloWorld[2367:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-30 21:52:16.574 HelloWorld[2367:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-03-31 09:19:52.210 HelloWorld[1230:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:19:52.681 HelloWorld[1230:70b] Resetting plugins due to page load.
+2014-03-31 09:19:55.883 HelloWorld[1230:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 09:19:55.905 HelloWorld[1230:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-03-31 09:20:39.409 HelloWorld[1566:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:20:39.578 HelloWorld[1566:70b] Resetting plugins due to page load.
+2014-03-31 09:20:39.857 HelloWorld[1566:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 09:20:39.880 HelloWorld[1566:70b] Received Event: deviceready
+2014-03-31 09:49:51.122 HelloWorld[2900:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:49:51.582 HelloWorld[2900:70b] Resetting plugins due to page load.
+2014-03-31 09:49:54.459 HelloWorld[2900:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 09:50:52.961 HelloWorld[2900:70b] Received memory warning.
+2014-03-31 09:52:09.343 HelloWorld[3127:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:52:09.495 HelloWorld[3127:70b] Resetting plugins due to page load.
+2014-03-31 09:52:09.924 HelloWorld[3127:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 09:53:53.775 HelloWorld[3443:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:53:53.971 HelloWorld[3443:70b] Resetting plugins due to page load.
+2014-03-31 09:53:54.263 HelloWorld[3443:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 09:53:54.290 HelloWorld[3443:70b] Received Event: deviceready
+2014-03-31 09:56:12.273 HelloWorld[3775:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 09:56:12.445 HelloWorld[3775:70b] Resetting plugins due to page load.
+2014-03-31 09:56:14.766 HelloWorld[3775:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 09:56:14.793 HelloWorld[3775:70b] Received Event: deviceready
+2014-03-31 09:56:14.806 HelloWorld[3775:70b] THREAD WARNING: ['Console'] took '13.247070' ms. Plugin should use a background thread.
+2014-03-31 10:00:21.139 HelloWorld[3775:70b] 应用被暂停了
+2014-03-31 10:00:23.711 HelloWorld[3775:70b] 应用已经恢复
+2014-03-31 10:00:36.342 HelloWorld[3775:70b] 应用被暂停了
+2014-03-31 10:00:39.027 HelloWorld[3775:70b] 应用已经恢复
+Terminating in response to SpringBoard's termination.
+2014-03-31 10:49:11.844 HelloWorld[4165:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 10:49:12.021 HelloWorld[4165:70b] Resetting plugins due to page load.
+2014-03-31 14:41:47.157 HelloWorld[656:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 14:41:47.571 HelloWorld[656:70b] Resetting plugins due to page load.
+2014-03-31 14:41:48.117 HelloWorld[656:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 14:41:48.159 HelloWorld[656:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-03-31 14:47:48.395 HelloWorld[1019:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 14:47:48.554 HelloWorld[1019:70b] Resetting plugins due to page load.
+2014-03-31 14:51:23.770 HelloWorld[1352:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 14:51:23.915 HelloWorld[1352:70b] Resetting plugins due to page load.
+2014-03-31 14:51:27.650 HelloWorld[1352:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8A7CEBD1-5876-4188-9D31-F34EE304640F/HelloWorld.app/www/index.html
+2014-03-31 14:51:27.664 HelloWorld[1352:70b] Received Event: deviceready
+2014-03-31 18:52:21.336 HelloWorld[992:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 18:52:21.693 HelloWorld[992:70b] Resetting plugins due to page load.
+2014-03-31 18:52:26.483 HelloWorld[992:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/74E4F3D3-1F92-484C-A47D-B055356E0D9B/HelloWorld.app/www/index.html
+2014-03-31 18:52:26.497 HelloWorld[992:70b] Received Event: deviceready
+2014-03-31 18:53:05.062 HelloWorld[992:70b] 应用暂停了
+2014-03-31 18:53:09.856 HelloWorld[992:70b] 应用恢复了
+2014-03-31 18:53:13.583 HelloWorld[992:70b] 应用暂停了
+2014-03-31 18:53:40.324 HelloWorld[992:70b] 应用恢复了
+2014-03-31 18:53:42.971 HelloWorld[992:70b] 应用暂停了
+2014-03-31 18:54:32.878 HelloWorld[1226:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 18:54:33.147 HelloWorld[1226:70b] Resetting plugins due to page load.
+2014-03-31 18:54:34.536 HelloWorld[1226:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 18:54:34.647 HelloWorld[1226:70b] Received Event: deviceready
+2014-03-31 19:21:31.486 HelloWorld[1658:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 19:21:31.644 HelloWorld[1658:70b] Resetting plugins due to page load.
+2014-03-31 19:21:34.275 HelloWorld[1658:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 19:23:42.172 HelloWorld[1991:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 19:23:42.324 HelloWorld[1991:70b] Resetting plugins due to page load.
+2014-03-31 19:23:43.116 HelloWorld[1991:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 19:23:43.157 HelloWorld[1991:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-03-31 19:26:27.535 HelloWorld[2329:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 19:26:27.691 HelloWorld[2329:70b] Resetting plugins due to page load.
+2014-03-31 19:26:28.682 HelloWorld[2329:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 19:26:28.698 HelloWorld[2329:70b] Received Event: deviceready
+2014-03-31 19:27:56.065 HelloWorld[2329:70b] Received memory warning.
+2014-03-31 19:32:53.339 HelloWorld[2720:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 19:32:53.514 HelloWorld[2720:70b] Resetting plugins due to page load.
+2014-03-31 19:32:53.804 HelloWorld[2720:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 19:32:53.830 HelloWorld[2720:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-03-31 19:34:55.945 HelloWorld[3054:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 19:34:56.160 HelloWorld[3054:70b] Resetting plugins due to page load.
+2014-03-31 19:34:57.626 HelloWorld[3054:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 19:34:57.644 HelloWorld[3054:70b] Received Event: deviceready
+2014-03-31 19:47:26.665 HelloWorld[3441:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 19:47:26.814 HelloWorld[3441:70b] Resetting plugins due to page load.
+2014-03-31 19:47:35.560 HelloWorld[3441:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 19:47:35.598 HelloWorld[3441:70b] deviceready has not fired after 5 seconds.
+2014-03-31 19:47:35.599 HelloWorld[3441:70b] Channel not fired: onDOMContentLoaded
+2014-03-31 19:47:35.600 HelloWorld[3441:70b] Received Event: deviceready
+2014-03-31 19:47:42.823 HelloWorld[3441:70b] THREAD WARNING: ['Notification'] took '100.686035' ms. Plugin should use a background thread.
+2014-03-31 19:47:54.117 HelloWorld[3441:70b] THREAD WARNING: ['Notification'] took '39.028076' ms. Plugin should use a background thread.
+2014-03-31 19:50:23.699 HelloWorld[3441:70b] THREAD WARNING: ['Notification'] took '31.535156' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-03-31 20:02:13.603 HelloWorld[3802:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 20:02:13.687 HelloWorld[3802:70b] Resetting plugins due to page load.
+2014-03-31 20:02:14.691 HelloWorld[3802:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 20:02:14.741 HelloWorld[3802:70b] THREAD WARNING: ['Notification'] took '32.318115' ms. Plugin should use a background thread.
+2014-03-31 20:02:14.773 HelloWorld[3802:70b] Received Event: deviceready
+2014-03-31 20:02:22.703 HelloWorld[3802:70b] THREAD WARNING: ['Notification'] took '59.782959' ms. Plugin should use a background thread.
+2014-03-31 20:02:28.720 HelloWorld[3802:70b] THREAD WARNING: ['Notification'] took '84.595947' ms. Plugin should use a background thread.
+2014-03-31 20:02:36.083 HelloWorld[3802:70b] THREAD WARNING: ['Notification'] took '33.788818' ms. Plugin should use a background thread.
+2014-03-31 20:03:00.819 HelloWorld[4004:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-31 20:03:00.978 HelloWorld[4004:70b] Resetting plugins due to page load.
+2014-03-31 20:03:30.529 HelloWorld[4004:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/645E6E64-1AE5-4055-87E9-516FCF47B788/HelloWorld.app/www/index.html
+2014-03-31 20:03:30.574 HelloWorld[4004:70b] THREAD WARNING: ['Notification'] took '30.333008' ms. Plugin should use a background thread.
+2014-03-31 20:03:30.618 HelloWorld[4004:70b] deviceready has not fired after 5 seconds.
+2014-03-31 20:03:30.618 HelloWorld[4004:70b] Channel not fired: onDOMContentLoaded
+2014-03-31 20:03:30.618 HelloWorld[4004:70b] Received Event: deviceready
+2014-03-31 20:03:43.270 HelloWorld[4004:70b] THREAD WARNING: ['Notification'] took '38.062012' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
