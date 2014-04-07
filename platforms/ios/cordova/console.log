@@ -116,3 +116,104 @@ Terminating in response to SpringBoard's termination.
 2014-03-31 20:03:30.618 HelloWorld[4004:70b] Received Event: deviceready
 2014-03-31 20:03:43.270 HelloWorld[4004:70b] THREAD WARNING: ['Notification'] took '38.062012' ms. Plugin should use a background thread.
 Terminating in response to SpringBoard's termination.
+2014-04-02 23:32:50.314 HelloWorld[3560:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-02 23:32:50.400 HelloWorld[3560:70b] Resetting plugins due to page load.
+2014-04-02 23:32:50.802 HelloWorld[3560:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F3989D85-A952-45C7-B3DC-9D73F05D917E/HelloWorld.app/www/index.html
+2014-04-02 23:32:50.884 HelloWorld[3560:70b] THREAD WARNING: ['Notification'] took '47.900146' ms. Plugin should use a background thread.
+2014-04-02 23:32:50.935 HelloWorld[3560:70b] Received Event: deviceready
+2014-04-07 12:36:47.841 HelloWorld[1081:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 12:36:48.217 HelloWorld[1081:70b] Resetting plugins due to page load.
+2014-04-07 12:36:50.747 HelloWorld[1081:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F3989D85-A952-45C7-B3DC-9D73F05D917E/HelloWorld.app/www/index.html
+2014-04-07 12:36:50.769 HelloWorld[1081:70b] Received Event: deviceready
+2014-04-07 12:36:55.280 HelloWorld[1081:70b] 纬度： 37.785834
+经度： -122.406417
+2014-04-07 12:38:18.751 HelloWorld[1628:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 12:38:18.897 HelloWorld[1628:70b] Resetting plugins due to page load.
+2014-04-07 12:38:19.609 HelloWorld[1628:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/896E99A8-E51D-4E46-B70F-0D57267B5F93/HelloWorld.app/www/index.html
+2014-04-07 12:38:19.628 HelloWorld[1628:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-04-07 12:56:44.945 HelloWorld[946:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 12:56:45.485 HelloWorld[946:70b] Resetting plugins due to page load.
+2014-04-07 12:56:45.739 HelloWorld[946:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/896E99A8-E51D-4E46-B70F-0D57267B5F93/HelloWorld.app/www/index.html
+2014-04-07 12:56:45.767 HelloWorld[946:70b] Received Event: deviceready
+2014-04-07 12:57:25.860 HelloWorld[1269:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 12:57:25.972 HelloWorld[1269:70b] Resetting plugins due to page load.
+2014-04-07 12:57:26.138 HelloWorld[1269:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/109938F4-D97D-4790-B881-584B6CD225A8/HelloWorld.app/www/index.html
+2014-04-07 12:57:26.161 HelloWorld[1269:70b] Received Event: deviceready
+2014-04-07 12:57:29.661 HelloWorld[1269:70b] locationManager::didFailWithError (null)
+Terminating in response to SpringBoard's termination.
+2014-04-07 12:59:20.653 HelloWorld[1761:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 12:59:20.801 HelloWorld[1761:70b] Resetting plugins due to page load.
+2014-04-07 12:59:21.004 HelloWorld[1761:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/109938F4-D97D-4790-B881-584B6CD225A8/HelloWorld.app/www/index.html
+2014-04-07 12:59:21.041 HelloWorld[1761:70b] Received Event: deviceready
+2014-04-07 13:00:18.662 HelloWorld[2108:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:00:18.756 HelloWorld[2108:70b] Resetting plugins due to page load.
+2014-04-07 13:00:18.978 HelloWorld[2108:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/109938F4-D97D-4790-B881-584B6CD225A8/HelloWorld.app/www/index.html
+2014-04-07 13:00:19.031 HelloWorld[2108:70b] Received Event: deviceready
+2014-04-07 13:01:26.747 HelloWorld[2571:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:01:26.859 HelloWorld[2571:70b] Resetting plugins due to page load.
+2014-04-07 13:01:27.020 HelloWorld[2571:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/3CDE230B-8D7C-4D8B-A5B5-ECA3113799D0/HelloWorld.app/www/index.html
+2014-04-07 13:01:27.043 HelloWorld[2571:70b] Received Event: deviceready
+2014-04-07 13:01:32.942 HelloWorld[2571:70b] locationManager::didFailWithError (null)
+2014-04-07 13:03:37.439 HelloWorld[3038:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:03:37.547 HelloWorld[3038:70b] Resetting plugins due to page load.
+2014-04-07 13:03:38.120 HelloWorld[3038:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8AF3EAEF-7809-46A9-8299-001B29771E7B/HelloWorld.app/www/index.html
+2014-04-07 13:03:38.148 HelloWorld[3038:70b] Received Event: deviceready
+2014-04-07 13:03:40.121 HelloWorld[3038:70b] locationManager::didFailWithError (null)
+Terminating in response to SpringBoard's termination.
+2014-04-07 13:20:55.917 HelloWorld[3599:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:20:56.000 HelloWorld[3599:70b] Resetting plugins due to page load.
+2014-04-07 13:21:08.163 HelloWorld[3599:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8AF3EAEF-7809-46A9-8299-001B29771E7B/HelloWorld.app/www/index.html
+2014-04-07 13:21:08.177 HelloWorld[3599:70b] deviceready has not fired after 5 seconds.
+2014-04-07 13:21:08.178 HelloWorld[3599:70b] Channel not fired: onDOMContentLoaded
+2014-04-07 13:21:08.178 HelloWorld[3599:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-04-07 13:21:58.960 HelloWorld[4106:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:21:59.114 HelloWorld[4106:70b] Resetting plugins due to page load.
+2014-04-07 13:21:59.397 HelloWorld[4106:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8AF3EAEF-7809-46A9-8299-001B29771E7B/HelloWorld.app/www/index.html
+2014-04-07 13:21:59.511 HelloWorld[4106:70b] Received Event: deviceready
+2014-04-07 13:23:06.815 HelloWorld[4586:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:23:06.913 HelloWorld[4586:70b] Resetting plugins due to page load.
+2014-04-07 13:23:07.141 HelloWorld[4586:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8AF3EAEF-7809-46A9-8299-001B29771E7B/HelloWorld.app/www/index.html
+2014-04-07 13:23:07.165 HelloWorld[4586:70b] Received Event: deviceready
+Terminating in response to SpringBoard's termination.
+2014-04-07 13:50:23.723 HelloWorld[5158:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:50:23.869 HelloWorld[5158:70b] Resetting plugins due to page load.
+2014-04-07 13:50:25.449 HelloWorld[5158:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/8AF3EAEF-7809-46A9-8299-001B29771E7B/HelloWorld.app/www/index.html
+2014-04-07 13:54:18.185 HelloWorld[5653:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:54:18.293 HelloWorld[5653:70b] Resetting plugins due to page load.
+2014-04-07 13:54:19.105 HelloWorld[5653:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EA623780-4C47-4AC1-8B80-AE35A4E0E33B/HelloWorld.app/www/index.html
+2014-04-07 13:56:25.799 HelloWorld[6143:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:56:25.976 HelloWorld[6143:70b] Resetting plugins due to page load.
+2014-04-07 13:56:30.558 HelloWorld[6143:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EA623780-4C47-4AC1-8B80-AE35A4E0E33B/HelloWorld.app/www/index.html
+2014-04-07 13:57:37.617 HelloWorld[6630:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 13:57:37.712 HelloWorld[6630:70b] Resetting plugins due to page load.
+2014-04-07 13:57:37.913 HelloWorld[6630:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EA623780-4C47-4AC1-8B80-AE35A4E0E33B/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-07 14:00:14.063 HelloWorld[7152:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 14:00:14.222 HelloWorld[7152:70b] Resetting plugins due to page load.
+2014-04-07 14:00:14.496 HelloWorld[7152:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EA623780-4C47-4AC1-8B80-AE35A4E0E33B/HelloWorld.app/www/index.html
+2014-04-07 14:03:20.987 HelloWorld[7654:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 14:03:21.079 HelloWorld[7654:70b] Resetting plugins due to page load.
+2014-04-07 14:03:21.305 HelloWorld[7654:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EA623780-4C47-4AC1-8B80-AE35A4E0E33B/HelloWorld.app/www/index.html
+2014-04-07 14:03:21.325 HelloWorld[7654:70b] Received Event: deviceready
+2014-04-07 14:03:24.947 HelloWorld[7654:70b] log1
+2014-04-07 14:03:36.614 HelloWorld[7654:70b] log1
+2014-04-07 14:04:09.881 HelloWorld[7654:70b] log1
+2014-04-07 14:04:10.935 HelloWorld[7654:70b] log1
+2014-04-07 14:04:12.204 HelloWorld[7654:70b] log1
+Terminating in response to SpringBoard's termination.
+2014-04-07 14:06:31.857 HelloWorld[8177:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-07 14:06:32.018 HelloWorld[8177:70b] Resetting plugins due to page load.
+2014-04-07 14:06:33.245 HelloWorld[8177:70b] Finished load of: file:///Users/youqing/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EA623780-4C47-4AC1-8B80-AE35A4E0E33B/HelloWorld.app/www/index.html
+2014-04-07 14:06:33.264 HelloWorld[8177:70b] Received Event: deviceready
+2014-04-07 14:06:38.710 HelloWorld[8177:70b] log1
+2014-04-07 14:06:40.614 HelloWorld[8177:70b] log1
+2014-04-07 14:06:42.472 HelloWorld[8177:70b] log1
+2014-04-07 14:06:45.578 HelloWorld[8177:70b] log1
+2014-04-07 14:06:46.488 HelloWorld[8177:70b] log1
+2014-04-07 14:06:49.593 HelloWorld[8177:70b] log1
+2014-04-07 14:06:50.435 HelloWorld[8177:70b] log1
+2014-04-07 14:06:51.105 HelloWorld[8177:70b] log1
+2014-04-07 14:06:51.789 HelloWorld[8177:70b] log1
+Terminating in response to SpringBoard's termination.
